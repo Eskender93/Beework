@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Beework/static/css/main.c6cc66e3.css",
+    "main.js": "/Beework/static/js/main.ea7e4a99.js",
+    "static/media/Hero-img.png": "/Beework/static/media/Hero-img.05c4769f2a6b56c86bc2.png",
+    "static/media/logo192.svg": "/Beework/static/media/logo192.8021e9f82ebd416b99028f73467b98c7.svg",
+    "static/media/slick.svg": "/Beework/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Beework/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Beework/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Beework/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Beework/index.html",
+    "main.c6cc66e3.css.map": "/Beework/static/css/main.c6cc66e3.css.map",
+    "main.ea7e4a99.js.map": "/Beework/static/js/main.ea7e4a99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6cc66e3.css",
+    "static/js/main.ea7e4a99.js"
+  ]
+}
